@@ -20,8 +20,8 @@ URL : http://localhost:8000/docs
 python frontend.py
 ```
 URL : http://localhost:8501/
-![](images/Screenshot 2024-12-14 001521.png?raw=true)
+![alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-17%20163233.png)
 
 # Training Logs and Graphs 
-[alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-14%20001601.png)
-[alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-14%20001521.png)
+![alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-14%20001601.png)
+![alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-14%20001521.png)
