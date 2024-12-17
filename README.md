@@ -12,7 +12,7 @@ python Application.py
 ```
 
 URL : http://localhost:8000/docs
-[alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-17%20163440.png?raw=true)
+[alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-17%20163440.png)
 
 # Front End for Email classification using Streamlit
 
@@ -20,8 +20,8 @@ URL : http://localhost:8000/docs
 python frontend.py
 ```
 URL : http://localhost:8501/
-[alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-17%20163233.png?raw=true)
+[alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-17%20163233.png)
 
 # Training Logs and Graphs 
-[alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-14%20001601.png?raw=true)
-[alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-14%20001521.png?raw=true)
+[alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-14%20001601.png)
+[alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-14%20001521.png)
