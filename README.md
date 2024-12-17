@@ -12,7 +12,7 @@ python Application.py
 ```
 
 URL : http://localhost:8000/docs
-![](images/Screenshot 2024-12-17 163440.png?raw=true)
+![alt text](https://github.com/parikhshyamal1993/Email_classification_customer_support/blob/main/images/Screenshot%202024-12-17%20163440.png)
 
 # Front End for Email classification using Streamlit
 
