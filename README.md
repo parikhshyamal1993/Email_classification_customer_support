@@ -1,7 +1,9 @@
 # Email_classification_customer_support
 This is an implementation of bert base model for email classification of customer support dataset.
 
-# Requirements 
+# Model_file:
+classification model :
+https://drive.google.com/drive/folders/1-3nP4SqA_uf9eGwoE76AXACO0--_Hzzv?usp=drive_link
 
 # Training :
 The file : 
